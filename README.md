@@ -1,4 +1,4 @@
-# Funciones Lambda y bucles acanzados en Python
+# Funciones Lambda y bucles avanzados en Python
  Ejercicios que incluyen funciones lambda y bucles avanzados
 
 
