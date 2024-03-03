@@ -1,5 +1,5 @@
 # Funciones Lambda y bucles avanzados en Python
-###Ejercicios que incluyen funciones lambda y bucles avanzados
+### Ejercicios que incluyen funciones lambda y bucles avanzados
 ![alt text](image-2.png)
 
 This repository contains a collection of lambda exercises developed during the Upgrade Hub classes. These exercises cover a variety of topics, including functions, lambda expressions and more.
